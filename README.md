@@ -9,7 +9,7 @@ Downloading:
 ------------------
 1. Download the repo 
 ---------------------
-2. Run with an IDE such as Eclipse or Ready to Program
+2. Run Card21 along with other java files on an IDE such as Eclipse or Ready to Program
 -------------------
 3. Enjoy!
 ------------------
